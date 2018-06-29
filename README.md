@@ -1,2 +1,2 @@
-# Currency-Converter
-This is My Project for The ALCwithgoogle 7days of code challenge 
+# currency-converter
+ALCwithGoogle MWS Challenge 2.0
