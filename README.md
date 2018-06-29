@@ -1,2 +1,4 @@
 # currency-converter
-ALCwithGoogle MWS Challenge 2.0
+ALCwithGoogle Mobile Web Specialist Challenge 2.0
+#7daysOfCode
+
