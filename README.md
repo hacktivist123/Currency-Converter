@@ -1,6 +1,11 @@
 # currency-converter
 
-currency converter is a PWA which uses the [FreeCurrencyConverter API](https://free.currencyconverterapi.com/) to pull the exchange rates
+Currency Converter is a Progressive Web App which uses the [FreeCurrencyConverter API](https://free.currencyconverterapi.com/) to pull the exchange rates and convert currencies from one rate to another.
 
-ALCwithGoogle Mobile Web Specialist Challenge 2.0
-#7daysOfCode
+Technologies Implemented
+[x] IndexedDB
+[x] PWA
+[x] web caching
+[x] Javascript ES6
+[x] Css(card style)
+
